@@ -36,8 +36,15 @@ Data Modeling
 
 Data Analytics
 
-
+## 🛡️ License
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
 ---
+##🌟 About Me
+Hi there! I'm Diamond Chizota—a data enthusiast with a deep interest in transforming raw information into meaningful insights. I’m passionate about sharing knowledge, exploring impactful solutions, and making the world of data both accessible and exciting.
+
+
+
+
 
 
