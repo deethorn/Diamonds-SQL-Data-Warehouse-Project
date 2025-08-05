@@ -1,13 +1,13 @@
-# Diamonds-SQL-Data-Warehouse-Project
+# Diamonds-SQL-Data-Warehouse-and-analytics-Project
 
 🚀 This portfolio project presents an end-to-end data warehousing and analytics solution from building a structured data warehouse to delivering actionable insights demonstrating best practices in modern data engineering and analytics.
 ---
 #🏗️ Data Architecture
 This project adopts the Medallion Architecture, structured into Bronze, Silver, and Gold layers to ensure scalable and organized data flow:
 
-Bronze Layer: Captures raw data as received from source systems. Data is ingested from CSV files into the SQL Server database without transformation.
+##Bronze Layer: Captures raw data as received from source systems. Data is ingested from CSV files into the SQL Server database without transformation.
 
-Silver Layer: Applies data cleansing, standardization, and normalization to prepare the dataset for reliable analysis.
+##Silver Layer: Applies data cleansing, standardization, and normalization to prepare the dataset for reliable analysis.
 
 Gold Layer: Delivers business-ready data modeled in a star schema, optimized for reporting and analytical tasks.
 ---
